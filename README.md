@@ -1,2 +1,2 @@
 # Minimax-kNN
-The code for https://aclanthology.org/2021.findings-acl.309/
+The repo is moved to [https://github.com/huawei-noah/KD-NLP/tree/main/Minimax-kNN](https://github.com/huawei-noah/KD-NLP/tree/main/Minimax-kNN)
